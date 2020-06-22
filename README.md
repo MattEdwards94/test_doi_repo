@@ -8,7 +8,7 @@ Some content
 
 # Fancy image
 
-![Alt text](https://user-images.githubusercontent.com/25121693/85303678-b73ab100-b4a2-11ea-88e6-79e77125f0e8.png?raw=true "A fancy image")
+![Alt text](/multi_level_interpolation_base.png?raw=true "A fancy image")
 
 
 
